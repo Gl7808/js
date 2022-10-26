@@ -42,3 +42,7 @@ body{
 ol.day_list li{
     margin-top: 20px;
 }
+
+code{
+    background: rgb(105, 188, 255);
+}
