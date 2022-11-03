@@ -12,4 +12,8 @@
 
     let g = 11 % 3;
     console.log(g);
-    1
+    
+    const g = 0;
+    function arr2(num,power){
+
+    };
