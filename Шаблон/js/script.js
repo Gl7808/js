@@ -12,3 +12,4 @@
 
     let g = 11 % 3;
     console.log(g);
+    1
